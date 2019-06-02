@@ -1,6 +1,6 @@
 # VBA_password
  
-VBA project password hack program
+VBA project password crack
 
 1. The VBE will call a system function to create the password dialog box.
 2. If user enters the right password and click OK, this function returns 1. If user enters the wrong password or click Cancel, this function returns 0.
